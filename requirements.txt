@@ -3,3 +3,5 @@ scikit-image
 tensorflow-addons
 opencv-python
 tqdm
+ipywidgets
+jupyterlab
